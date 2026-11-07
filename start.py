@@ -1,3 +1,4 @@
+#Copyright(C)-@EQHdev
 from ffglory import start
 
 application.run_polling()
