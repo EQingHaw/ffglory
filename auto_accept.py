@@ -1,3 +1,4 @@
+#Copyright(C)-@EQHdev
 from ffglory import auto_accept
 async def auto_accept_job(context: ContextTypes.DEFAULT_TYPE):
 if guild_data['auto_accept_enabled']:
