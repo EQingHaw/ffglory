@@ -1,3 +1,4 @@
+#Copyright(C)-@EQHdev
 from ffglory import job
 #runs every 5 minutes in the chat where /start was called
 job_queue = application.job_queue
