@@ -1,3 +1,4 @@
+#Copyright(C)-@EQHdev
 from ffglory import handlers
 application.add_handler(CommandHandler("add_member", add_member))
 application.add_handler(CommandHandler("remove_member", remove_member))
